@@ -1,0 +1,3 @@
+rootProject.name = 'famkit_2740'
+
+include ':app'
